@@ -1,6 +1,6 @@
 # Magazin Online realizat cu React
 
-Magazin eCommerce folosind React
+Magazin eCommerce 
 
 ## Functionalitati
 
@@ -9,10 +9,6 @@ Magazin eCommerce folosind React
 ->Butoane de "Adauga in cos" si "Adauga la Favorite" la fiecarui produs fie din pagina de categorie fie din pagina de produs,
 
 ->Cosul de cumparaturi si Lista de Favorite se actualizeaza real-time,
-
-->Logare cu Google si Facebook folosing Firebase,
-
-->Afisarea produselor adaugate in Cos si Lista de Favorite
 
 ### Pentru a rula local proiectul
 
@@ -24,6 +20,3 @@ npm install
 
 npm start
 
-### Vizualizare Proiect
-
-Proiectul este hostat pe : https://danut-shop.herokuapp.com/
