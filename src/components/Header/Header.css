@@ -1,0 +1,12 @@
+.header img{
+    width: 200px;
+    height: auto;
+}
+svg{
+width: 30px;
+height: auto;
+}
+p{
+    
+display: inline-flex;
+}

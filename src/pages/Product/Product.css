@@ -1,0 +1,13 @@
+.product-page .image-wrapper {
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+}
+
+.product-page .image-wrapper img {
+    height: 100%;
+}
+
+.Same{
+    display:inline-block;
+  }

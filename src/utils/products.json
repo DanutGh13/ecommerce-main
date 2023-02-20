@@ -1,0 +1,253 @@
+{
+    "laptop": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Laptop Home ",
+                "price": 1800,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": 15.6,
+                "colour": "Gri",
+                "material": "Aluminiu",
+                "brand": "ASUS",
+                "description": "Laptop ASUS X515KA cu procesor Intel® Celeron® N4500 pana la 2.80 GHz, 15.6, Full HD, 8GB, 256GB M.2 NVMe™ PCIe® 3.0 SSD, Intel® UHD Graphics, No OS",
+                "quantity":1
+            },
+            {
+                "id": 2,
+                "name": "Laptop Business",
+                "price": 2200,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": 14,
+                "colour": "Gri",
+                "material": "Aluminiu",
+                "brand": "DELL",
+                "description": "Laptop Dell Vostro 3510 cu procesor Intel® Core™ i3-1115G4 pana la 4.10 GHz, Tiger Lake, Full HD, 8GB, 512GB, Intel® UHD Graphics, Ubuntu Linux 20.04, 3y ProSupport and Next Business Day Onsite Service",
+                "quantity":1
+            },
+            {
+                "id": 3,
+                "name": "Laptop Gaming",
+                "price": 4250,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+                "size": 16,
+                "colour": "Negru",
+                "material": "Aluminiu",
+                "brand": "HP",
+                "description": "Laptop Gaming HP VICTUS 15-fb0029nq cu procesor AMD Ryzen™ 5 5600H pana la 4.20 GHz, Full HD, 8GB, 256GB SSD, Nvidia GeForce GTX 1650 4GB, FreeDOS, Mica Silver",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=826&t=st=1676484540~exp=1676485140~hmac=32ac792aa460164f0685428af75ff72b5d5032342a347173db4630120017a62f",
+        "name": "Laptopuri",
+        "description": "Home, Business, Gaming"
+    },
+    "telefoane": {
+        "items": [
+            {
+                "id": 4,
+                "name": "iPhone 11",
+                "price": 2900,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+                "size": "7",
+                "colour": "Alb",
+                "material": "Aluminiu",
+                "brand": "Apple",
+                "description": "Telefon mobil Apple iPhone 11",
+                "quantity":1
+            },
+            {
+                "id": 5,
+                "name": "Galaxy S22",
+                "price": 3100,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+                "size": "7",
+                "colour": "Multicolor",
+                "material": "Aluminiu",
+                "brand": "Samsung",
+                "description": "Telefon mobil Samsung Galaxy S22",
+                "quantity":1
+            },
+            {
+                "id": 6,
+                "name": "Telefon Dual-SIM A53",
+                "price": 1600,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1570891836654-d4961a7b6929?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+                "size": "7",
+                "colour": "Multicolor",
+                "material": "Aluminiu",
+                "brand": "Samsung",
+                "description": "Telefon mobil Samsung Galaxy A53 Dual SIM",
+                "quantity":1
+            },
+            {
+                "id": 7,
+                "name": "Nova 9",
+                "price": 1500,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1595941069915-4ebc5197c14a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+                "size": "7",
+                "colour": "Crem",
+                "material": "Aluminiu",
+                "brand": "Huawei",
+                "description": "Telefon mobil Huawei Nova 9 Dual SIM",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-vector/realistic-smartphone-official-colors_23-2148778793.jpg?w=826&t=st=1676484517~exp=1676485117~hmac=d8ee8c7fd650e55e1754155d0c5f4754b075e67895e40625cb96b35a01bf23bb",
+        "name": "Telefoane",
+        "description": "iOS, Android, Single SIM, Dual SIM"
+    },
+    "tablete": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Galaxy Tab A8",
+                "price": 1500,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=704&q=80",
+                "size": "11",
+                "colour": "Negru",
+                "material": "Aluminiu",
+                "brand": "Samsung",
+                "description": "Tableta Samsung Galaxy Tab A8",
+                "quantity":1
+            },
+            {
+                "id": 9,
+                "name": "iPad 10",
+                "price": 2500,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/1334596/pexels-photo-1334596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "11",
+                "colour": "Alb",
+                "material": "Aluminiu",
+                "brand": "Apple",
+                "description": "Apple iPad 10",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-vector/digital-tablet-mockup-brown-table_53876-118309.jpg?w=826&t=st=1676484453~exp=1676485053~hmac=9138cac3728c440c0b03d444dc0ab20a35a44e7b5cf6ecfd17c74149e663bf9b",
+        "name": "Tablete",
+        "description": "Android, iPadOS, Microsoft Windows, iOS"
+        
+    },
+    "smartwatch": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Smartwatch Sport",
+                "price": 800,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1638095562082-449d8c5a47b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+                "size": "-",
+                "colour": "Albastru închis",
+                "material": "Plastic",
+                "brand": "GO4IT",
+                "description": "Ceas Smartwatch Sport model GF03",
+                "quantity":1
+            },
+            {
+                "id": 11,
+                "name": "Smartwatch Casual",
+                "price": 750,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1099&q=80",
+                "size": "-",
+                "colour": "Alb",
+                "material": "Plastic",
+                "brand": "Beyond",
+                "description": "Ceas Smartwatch Beyond",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-vector/wearable-technology-electronic-products-flat-circle-icons-composition-poster-with-wristwatch_1284-10031.jpg?w=740&t=st=1676484318~exp=1676484918~hmac=234ff32260c1be7291e694cb8fbd687242fd6604cd8afd9ab8d1d7bb77ddb94e",
+        "name": "Smartwatch-uri",
+        "description": "Casual, Elegant, Sport"
+    },
+    "boxe": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Charger 5",
+                "price": 600,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/11031429/pexels-photo-11031429.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "-",
+                "colour": "Turcuaz",
+                "material": "Plastic",
+                "brand": "JBL",
+                "description": "Boxa portabila JBL Charher 5",
+                "quantity":1
+            },
+            {
+                "id": 13,
+                "name": "X40",
+                "price": 300,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/13465232/pexels-photo-13465232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "-",
+                "colour": "Roșu",
+                "material": "Plastic",
+                "brand": "Sony",
+                "description": "Boxa portabila Sony X40 stereo.",
+                "quantity":1
+            },
+            {
+                "id": 14,
+                "name": "XBOOM Go PL2",
+                "price": 500,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/14309809/pexels-photo-14309809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "-",
+                "colour": "Alb",
+                "material": "Plastic",
+                "brand": "Bose",
+                "description": "Boxa portabila Bose XBOOM Go PL2.",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-photo/speakers-with-high-volume-red-background_23-2149625679.jpg?w=740&t=st=1676484177~exp=1676484777~hmac=db9863a302050bd93aba79e6d7f3e4db365843edd0ff873eec6d9e92a856fc0b",
+        "name": "Boxe Portabile",
+        "description": "JBL, Skull Candy, Bose, Sony"
+    },
+    "console": {
+        "items": [
+            {
+                "id": 15,
+                "name": "XBOX One",
+                "price": 3000,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/10997583/pexels-photo-10997583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "-",
+                "colour": "Alb",
+                "material": "Plastic",
+                "brand": "XBOX",
+                "description": "Consola XBOX ONE",
+                "quantity":1
+            },
+            {
+                "id": 16,
+                "name": "PlayStation 5",
+                "price": 4500,
+                "currency": "LEI",
+                "image": "https://images.pexels.com/photos/13189272/pexels-photo-13189272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "size": "-",
+                "colour": "Alb",
+                "material": "Plastic",
+                "brand": "Sony",
+                "description": "Consola Sony PlayStation 5",
+                "quantity":1
+            }
+        ],
+        "image": "https://img.freepik.com/free-vector/different-consoles-video-games-vector-illustrations-set-designs-gamepads-joysticks-devices-gamers-gadgets-playing-controlling-digital-games-technology-gaming-concept_74855-23013.jpg?w=996&t=st=1676484608~exp=1676485208~hmac=63f246c303a26175c94acdd647b54185e95f57bc4c372f47d61f24ce5c751cd2",
+        "name": "Gaming",
+        "description": "XBOX, Playstation"
+    }
+}
